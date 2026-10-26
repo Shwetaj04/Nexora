@@ -8,7 +8,7 @@ Nexora is an AI-powered personal knowledge and decision assistant designed to he
 
 People often store useful information across scattered notes and documents, making it difficult to find relevant details, connect ideas, and make informed decisions. Traditional note-taking systems primarily store information but may not help users actively explore it.
 
-## Our Solution
+## Solution
 
 Nexora brings personal knowledge into one place and provides a conversational interface for interacting with saved information. Users can manage knowledge sources, ask questions, and receive responses that reference relevant sources.
 
@@ -124,14 +124,7 @@ Nexora is a prototype intended to demonstrate a personal knowledge management wo
 - Source references should be verified against the actual stored sources.
 - Full document-content retrieval, reliable evidence citations, and production deployment should be considered complete only after testing and validation.
 
-## Future Enhancements
 
-- Improved document-content extraction and semantic search.
-- Verifiable citations linking directly to source passages.
-- Support for additional file formats.
-- More advanced comparison and decision-support workflows.
-- Deployment with secure environment configuration.
-- Automated testing, monitoring, and improved error recovery.
 
 ## Security
 
